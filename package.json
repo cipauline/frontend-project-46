@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "gendiff": "bin/gendiff.js"
+    "gendiff": "bin/gendiff.js",
+    "pz": "bin/pz.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
